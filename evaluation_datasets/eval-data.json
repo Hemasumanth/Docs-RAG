@@ -1,0 +1,2027 @@
+[
+    {
+        "question": "What is the syntax for installing the latest official release of scikit-learn?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Installation questions"
+    },
+    {
+        "question": "How can one check the installed version of scikit-learn after installation?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Installation questions"
+    },
+    {
+        "question": "What are the acceptable parameters for the scikit-learn installation command using pip?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How do I install scikit-learn using conda in a new environment?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Installation questions"
+    },
+    {
+        "question": "What steps should be followed to ensure a scikit-learn installation is successful?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Installation questions"
+    },
+    {
+        "question": "Why is it recommended to use a virtual environment for installing scikit-learn?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Installation questions"
+    },
+    {
+        "question": "What are the minimum version requirements for scikit-learn's dependencies?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How can the installation of scikit-learn on Windows be debugged if there's an error due to file path length limit?",
+        "source": "https://scikit-learn.org/stable/install.html#error-caused-by-file-path-length-limit-on-windows",
+        "category": "Code debug"
+    },
+    {
+        "question": "What are some common pitfalls in interpreting the coefficients of linear models in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/inspection.html#inspection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does one use the sklearn.inspection module to understand model predictions?",
+        "source": "https://scikit-learn.org/stable/inspection.html#inspection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the scikit-learn project governance important for decision-making?",
+        "source": "https://scikit-learn.org/stable/governance.html#scikit-learn-governance-and-decision-making",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the role of core contributors in the scikit-learn project?",
+        "source": "https://scikit-learn.org/stable/governance.html#core-contributors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does one become a contributor to the scikit-learn project?",
+        "source": "https://scikit-learn.org/stable/governance.html#contributors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the voting rights differences between contributors and core contributors in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/governance.html#roles-and-responsibilities",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How are new core contributors nominated and elected in the scikit-learn project?",
+        "source": "https://scikit-learn.org/stable/governance.html#core-contributors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What steps are necessary to become an emeritus core contributor in the scikit-learn project?",
+        "source": "https://scikit-learn.org/stable/governance.html#core-contributors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why should contributions to scikit-learn not be limited to code only?",
+        "source": "https://scikit-learn.org/stable/governance.html#contributors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can one ensure their contributions to scikit-learn are recognized?",
+        "source": "https://scikit-learn.org/stable/governance.html#contributors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the process for nominating new members to the scikit-learn technical committee?",
+        "source": "https://scikit-learn.org/stable/governance.html#core-contributors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the scikit-learn project handle decision making and governance?",
+        "source": "https://scikit-learn.org/stable/governance.html#scikit-learn-governance-and-decision-making",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the different ways to install scikit-learn and their advantages?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-scikit-learn",
+        "category": "Installation questions"
+    },
+    {
+        "question": "Why is it discouraged to install pip packages alongside those managed by the distribution's package manager on Linux?",
+        "source": "https://scikit-learn.org/stable/install.html#installing-the-latest-release",
+        "category": "Installation questions"
+    },
+    {
+        "question": "What are some of the major related projects and extensions of scikit-learn?",
+        "source": "https://scikit-learn.org/stable/related_projects.html#related-projects",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can interoperability between scikit-learn and other technologies be enhanced?",
+        "source": "https://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the key components of the scikit-learn-contrib template?",
+        "source": "https://scikit-learn.org/stable/related_projects.html#related-projects",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What role do automated machine learning toolkits play in the scikit-learn ecosystem?",
+        "source": "https://scikit-learn.org/stable/related_projects.html#interoperability-and-framework-enhancements",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does scikit-learn support machine learning model inspection and visualization?",
+        "source": "https://scikit-learn.org/stable/inspection.html#inspection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What strategies are recommended for avoiding data leakage in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/common_pitfalls.html#how-to-avoid-data-leakage",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the sklearn.inspection module be used to debug model performance issues?",
+        "source": "https://scikit-learn.org/stable/inspection.html#inspection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the recommended practices for using the random_state parameter in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/common_pitfalls.html#controlling-randomness",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for using `data_home` parameter in dataset fetchers of scikit-learn?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-datasets",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the `KernelPCA` bug related to `arpack` solver be debugged?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-decomposition",
+        "category": "Code debug"
+    },
+    {
+        "question": "What are the acceptable parameters for `precision_score` to handle zero division?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-metrics",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "Why does the decision tree in scikit-learn leak data via non-initialized memory?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-tree",
+        "category": "Code debug"
+    },
+    {
+        "question": "How can scikit-learn's `CalibratedClassifierCV` be installed to handle large prediction scores?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-calibration",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the correct way to use `cross_decomposition.PLSRegression` with one-dimensional `y`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-cross-decomposition",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why does `AdaBoostClassifier` need symmetric decision function for each weak learner?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-ensemble",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can `mutual_info_regression` be correctly applied when `X` is of integer dtype?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-feature-selection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters are necessary for the `KNNImputer` to add a missing indicator column?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-impute",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the `get_scorer` function not handling `multilabel-indicator` matrix properly?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#id2",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How to correctly initialize `GaussianMixture` with `precisions_init` for `full` covariance type?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-mixture",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax should be used for `KNeighborsClassifier.predict` with `pandas.DataFrame` input?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-neighbors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why does `LabelEncoder` require `y` as a keyword argument?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-preprocessing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can I use `class_names=True` with `tree.plot_tree`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#id3",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the correct installation command for scikit-learn 1.3.2?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#version-1-3-2",
+        "category": "Installation questions"
+    },
+    {
+        "question": "How to correctly predict on data with a different scale using `BisectingKMeans`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-cluster",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What changes were made to `BisectingKMeans` to handle data with a single feature?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-cluster",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is `AdaBoostClassifier` with algorithm='SAMME' requiring symmetric decision functions?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-ensemble",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How to compute mutual information regression correctly when X is of integer dtype?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-feature-selection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the necessary steps to correctly add a missing indicator column in `KNNImputer`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-impute",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why does `Scorers` used with `get_scorer` properly handle multilabel-indicator matrix now?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-metrics",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How to initialize `GaussianMixture` with `precisions_init` for 'full' covariance type?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-mixture",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax allows `KNeighborsClassifier.predict` to work without exceptions for DataFrame inputs?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-neighbors",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why does `LabelEncoder` now correctly accept `y` as a keyword argument?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-preprocessing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How has `plot_tree` been fixed to accept `class_names=True` as documented?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#id3",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What installation steps are recommended for scikit-learn version 1.3.2?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#version-1-3-2",
+        "category": "Installation questions"
+    },
+    {
+        "question": "Why was `CalibratedClassifierCV` updated to handle models with large prediction scores?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-calibration",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the `cross_decomposition.PLSRegression` function now handle one-dimensional `y` automatically?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-cross-decomposition",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What led to the fix in `AdaBoostClassifier` to ensure symmetric decision functions for each weak learner?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-ensemble",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In what way does `mutual_info_regression` now accurately compute results when `X` is of integer dtype?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.3.html#sklearn-feature-selection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do I use the `data_home` parameter in scikit-learn's dataset fetchers?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-utils",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the correct way to handle numerical stability issues in `adjusted_mutual_info_score` with NumPy 1.20+?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id2",
+        "category": "Code debug"
+    },
+    {
+        "question": "How can I debug the `SelfTrainingClassifier` when it's not accepting my meta-estimator?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id3",
+        "category": "Code debug"
+    },
+    {
+        "question": "Why might models produced by `KernelPCA` differ between 32-bit and 64-bit data?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#changed-models",
+        "category": "Code debug"
+    },
+    {
+        "question": "What syntax should I use to parallelize `CalibratedClassifierCV.fit` with joblib?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-calibration",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do I compute distances between clusters with `AgglomerativeClustering` for dendrogram visualization?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-cluster",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is my `ColumnTransformer` skipping transformers with a list of boolean False selectors?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id5",
+        "category": "Code debug"
+    },
+    {
+        "question": "How does `cross_decomposition.CCA` increase stability in its calculations?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id6",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the correct way to validate md5 checksums for files downloaded with `fetch_openml`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-datasets",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What improvements were made to the verbosity of `SpectralClustering`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-cluster",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do I set class weights for individual samples in `LinearRegression`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-linear-model",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the new capabilities of `OneHotEncoder` for handling missing values?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-preprocessing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can I use the `sample_weight` parameter in `SimpleImputer`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-impute",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What changes were made to `FeatureUnion` to improve error handling?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id5",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why was the `coef_` attribute in `CategoricalNB` deprecated?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-naive-bayes",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What steps are needed to debug `KernelPCA` behavior consistency between 32-bits and 64-bits?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#changed-models",
+        "category": "Code debug"
+    },
+    {
+        "question": "How can I use `CalibratedClassifierCV` efficiently with parallelization?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-calibration",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the proper way to compute cluster distances in `AgglomerativeClustering` for dendrogram creation?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-cluster",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might `ColumnTransformer` skip certain transformers based on a boolean selector?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id5",
+        "category": "Code debug"
+    },
+    {
+        "question": "How is the stability of `cross_decomposition.CCA` calculations improved?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id6",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What methods are recommended for validating md5 checksums of files fetched with `fetch_openml`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-datasets",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What improvements have been made to the verbosity of `SpectralClustering`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-cluster",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can class weights be set for individual samples in `LinearRegression`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-linear-model",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the `OneHotEncoder` handle missing values in its latest update?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-preprocessing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What changes were made to the `sample_weight` parameter in `SimpleImputer`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-impute",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How was `FeatureUnion` improved to better handle errors?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#id5",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What led to the deprecation of the `coef_` attribute in `CategoricalNB`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-naive-bayes",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do I use the `handle_unknown` parameter with `OrdinalEncoder` to deal with unseen categories during transform?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-preprocessing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax should be used to correctly add a missing indicator column in `KNNImputer`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-impute",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does `PLSRegression` handle one-dimensional `y` automatically after the latest update?",
+        "source": "https://scikit-learn.org/stable/whats_new/v0.24.html#sklearn-cross-decomposition",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can I ensure reproducibility and equivalence between sparse and dense input in `cluster.KMeans`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id1",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax is used to fix a segfault in `ensemble.HistGradientBoostingClassifier` and `ensemble.HistGradientBoostingRegressor`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id2",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do I compute `y_std` properly with multi-target in `sklearn.gaussian_process.GaussianProcessRegressor` for proper normalization in multi-target scenes?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-gaussian-process",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the acceptable parameters for `feature_extraction.text.CountVectorizer` to avoid checking for uppercase characters in the provided vocabulary?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-feature-extraction",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why does `linear_model.LogisticRegression` now raise a better error message when the solver does not support sparse matrices with int64 indices?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id3",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can I debug `neighbors.KNeighborsClassifier` when it raises an error for `bsr` and `dok` sparse matrices with metric='precomputed'?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id4",
+        "category": "Code debug"
+    },
+    {
+        "question": "What is the correct way to pass feature names from one step of a `pipeline.Pipeline` to the next?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-pipeline",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might `svm.SVC` check for an inconsistency in its internal representation and what is the result of the fix?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-svm",
+        "category": "Code debug"
+    },
+    {
+        "question": "How does `utils.validation._check_sample_weight` perform a non-negativity check on the sample weights?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id5",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What changes were made to ensure that estimators fitted on datasets without feature names no longer keep the old `feature_names_in_` attribute?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#miscellaneous",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the minimal dependencies required for scikit-learn version 1.0.0?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#minimal-dependencies",
+        "category": "Installation questions"
+    },
+    {
+        "question": "How do you ensure that all constructor and function parameters are now passed as keyword arguments instead of positional for clear and non-ambiguous use of the library?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#enforcing-keyword-only-arguments",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the estimators and functions that may produce different models from the previous version due to changes in the modeling logic or random sampling procedures?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#changed-models",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can I correctly use the `loss` and `criterion` parameters in `ensemble.ExtraTreesRegressor` to use the squared error instead of the deprecated 'mse'?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id6",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What led to the threadsafe implementation of `config_context` in `sklearn.base`?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-base",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What improvements were made to calibration.CalibrationDisplay for plotting calibration curves?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id7",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does calibration.CalibratedClassifierCV now handle prefitted pipelines?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id7",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What efficiency improvements were made to cluster.KMeans and cluster.MiniBatchKMeans?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id8",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How was the caching of tree computation outputs improved in cluster.OPTICS?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id8",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What changes allow cluster.AffinityPropagation to now accept sparse data for input?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id8",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the fit_predict method of cluster.AgglomerativeClustering support readonly memory-mapped datasets?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id8",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What enhancements were made to compose.ColumnTransformer for recording the output of each transformer?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-compose",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does compose.TransformedTargetRegressor's predict method now accept additional estimator parameters?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-compose",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What fix was applied to ensure arrays check in covariance.ledoit_wolf and covariance.ledoit_wolf_shrinkage?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#sklearn-covariance",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How was datasets.fetch_openml improved to support categories with missing values when returning a pandas dataframe?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id9",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the new solvers added to decomposition.KernelPCA for faster computation?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id10",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What changes were made to ensemble.HistGradientBoostingClassifier and ensemble.HistGradientBoostingRegressor for thread management in containers?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id11",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How was the HTML rendering of ensemble.StackingClassifier and ensemble.StackingRegressor improved?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id11",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What criterion was added to ensemble.RandomForestRegressor?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id11",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does feature_extraction.DictVectorizer now handle unsupported value types?",
+        "source": "https://scikit-learn.org/stable/whats_new/v1.0.html#id12",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you generate a sample dataset using the `make_checkerboard` function in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#generate-sample-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for creating a SpectralBiclustering model in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#fitting-spectralbiclustering",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why do we shuffle the rows and columns of the dataset before applying SpectralBiclustering?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#generate-sample-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can I plot the reordered data after applying SpectralBiclustering to visualize the biclusters?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#plotting-results",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the purpose of adding noise to the dataset generated for biclustering?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#generate-sample-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you calculate the consensus score for a SpectralBiclustering model?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#fitting-spectralbiclustering",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the `comp.os.ms-windows.misc` category excluded in the Spectral Co-clustering algorithm example?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_bicluster_newsgroups.html#biclustering-documents-with-the-spectral-co-clustering-algorithm",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the steps to visualize the classification probability for different classifiers using scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/classification/plot_classification_probability.html#plot-classification-probability",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the `DecisionBoundaryDisplay` class used to plot decision boundaries for classifiers?",
+        "source": "https://scikit-learn.org/stable/auto_examples/classification/plot_classification_probability.html#plot-classification-probability",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the effect of different ccp_alpha values on the complexity of a decision tree?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#post-pruning-decision-trees-with-cost-complexity-pruning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you perform post-pruning on decision trees using cost complexity pruning in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#post-pruning-decision-trees-with-cost-complexity-pruning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why does increasing ccp_alpha in a decision tree lead to more pruning?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#accuracy-vs-alpha-for-training-and-testing-sets",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What methods are used to visualize the structure of a decision tree in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html#understanding-the-decision-tree-structure",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can you interpret the `value` attribute in the nodes of a decision tree?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html#tree-structure",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of the `threshold` attribute in the nodes of a decision tree?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html#tree-structure",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does adding noise with a normal distribution affect the sample data in scikit-learn's `make_checkerboard` function?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#generate-sample-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What steps are involved in fitting the SpectralBiclustering model to the generated dataset?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#fitting-spectralbiclustering",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the consensus score be used to evaluate the quality of biclustering?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#fitting-spectralbiclustering",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What method is used to shuffle the dataset before applying SpectralBiclustering?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#generate-sample-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is it important to reorder the rows and columns after biclustering?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_spectral_biclustering.html#plotting-results",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the Spectral Co-clustering algorithm determine the best biclusters in the document clustering example?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_bicluster_newsgroups.html#biclustering-documents-with-the-spectral-co-clustering-algorithm",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What metrics are used to compare the Spectral Co-clustering algorithm with MiniBatchKMeans?",
+        "source": "https://scikit-learn.org/stable/auto_examples/bicluster/plot_bicluster_newsgroups.html#biclustering-documents-with-the-spectral-co-clustering-algorithm",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the classification probability visualized for different classifiers in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/classification/plot_classification_probability.html#plot-classification-probability",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What classifiers are compared in the classification probability plot example?",
+        "source": "https://scikit-learn.org/stable/auto_examples/classification/plot_classification_probability.html#plot-classification-probability",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the purpose of cost complexity pruning in decision trees?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#post-pruning-decision-trees-with-cost-complexity-pruning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you choose the optimal ccp_alpha value for pruning a decision tree?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#accuracy-vs-alpha-for-training-and-testing-sets",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What role does the ccp_alpha parameter play in preventing decision trees from overfitting?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#accuracy-vs-alpha-for-training-and-testing-sets",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In the context of decision trees, what does 'post-pruning' mean?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_cost_complexity_pruning.html#post-pruning-decision-trees-with-cost-complexity-pruning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the decision tree structure be analyzed to gain insight into feature importance?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html#understanding-the-decision-tree-structure",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What information does the `tree_` attribute of a DecisionTreeClassifier provide?",
+        "source": "https://scikit-learn.org/stable/auto_examples/tree/plot_unveil_tree_structure.html#understanding-the-decision-tree-structure",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you generate a dataset from the Mauna Loa Observatory for CO2 concentration analysis using scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#build-the-dataset",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the correct way to preprocess the CO2 dataset for trend analysis in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#build-the-dataset",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why do we use a Gaussian process regressor for modeling CO2 concentration, and how is it implemented?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#model-fitting-and-extrapolation",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can one interpret the hyperparameters of a kernel in Gaussian process regression for CO2 concentration data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#interpretation-of-kernel-hyperparameters",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax is used to create a Gaussian process classifier for gene sequence data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#gaussian-processes-on-discrete-data-structures",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you compute the sequence similarity matrix under the kernel for gene sequence analysis?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#sequence-similarity-matrix-under-the-kernel",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the process for performing regression on sequence data using a Gaussian process regressor?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you conduct classification on sequence data with Gaussian Process Classification in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#classification",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the differences between kernel ridge regression and Gaussian process regression in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#comparison-of-kernel-ridge-and-gaussian-process-regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you generate synthetic data for comparing kernel ridge and Gaussian process regression?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#generating-a-dataset",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What limitations does a simple linear model have when applied to sinusoidal data, and how is it demonstrated in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#limitations-of-a-simple-linear-model",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How are kernel methods applied to improve the expressiveness of a linear model in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#kernel-methods-kernel-ridge-and-gaussian-process",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the process for fitting a Gaussian process regression model to noisy sinusoidal data in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#gaussian-process-regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does optimizing kernel hyperparameters affect the performance of Gaussian process regression?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#gaussian-process-regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of iso-probability lines in Gaussian process classification?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpc_isoprobability.html#iso-probability-lines-for-gaussian-processes-classification-gpc",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you use the fetch_openml function to load CO2 concentration data for analysis?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#build-the-dataset",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What steps are taken to preprocess CO2 concentration data for a time series analysis?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#build-the-dataset",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the kernel designed for Gaussian process regression in the context of CO2 concentration modeling?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#design-the-proper-kernel",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What methodology is used to fit and extrapolate CO2 concentration data using Gaussian process regression?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#model-fitting-and-extrapolation",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you interpret the optimized hyperparameters of a Gaussian process model for CO2 concentration data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_co2.html#interpretation-of-kernel-hyperparameters",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What approach is used to model gene sequences with Gaussian processes in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#gaussian-processes-on-discrete-data-structures",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the sequence similarity matrix calculated for gene sequence analysis using Gaussian processes?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#sequence-similarity-matrix-under-the-kernel",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the process for conducting regression on sequence data with Gaussian processes?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you perform classification on gene sequence data using Gaussian process classification?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_gpr_on_structured_data.html#classification",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What distinguishes kernel ridge regression from Gaussian process regression in modeling sinusoidal data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#comparison-of-kernel-ridge-and-gaussian-process-regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is synthetic sinusoidal data generated for comparison between kernel ridge and Gaussian process regression?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#generating-a-dataset",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What illustrates the limitations of linear models in capturing the behavior of sinusoidal data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#limitations-of-a-simple-linear-model",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In scikit-learn, how are kernel methods used to enhance the capabilities of linear models?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#kernel-methods-kernel-ridge-and-gaussian-process",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you fit a Gaussian process regression model to noisy sinusoidal data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#gaussian-process-regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What demonstrates the importance of kernel hyperparameter optimization in Gaussian process regression?",
+        "source": "https://scikit-learn.org/stable/auto_examples/gaussian_process/plot_compare_gpr_krr.html#gaussian-process-regression",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you implement a LinearSVC pipeline with MinMaxScaler without feature selection?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#compare-with-svms",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for applying univariate feature selection before SVM classification?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#compare-with-svms",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is classification accuracy improved after univariate feature selection?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#compare-with-svms",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does adding the SelectKBest function affect SVM weights and classification accuracy?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#compare-with-svms",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the difference in SVM classification accuracy with and without univariate feature selection?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_feature_selection.html#compare-with-svms",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you compare the effectiveness of F-test and mutual information in feature selection?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html#comparison-of-f-test-and-mutual-information",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might mutual information rate a feature higher than F-test in feature selection?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html#comparison-of-f-test-and-mutual-information",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the impact of mutual information on feature selection compared to F-test statistics?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_f_test_vs_mi.html#comparison-of-f-test-and-mutual-information",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is recursive feature elimination (RFE) used to identify pixel relevance in digit classification?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_rfe_digits.html#recursive-feature-elimination",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What methodology does RFE follow to rank the importance of pixels in image classification?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_rfe_digits.html#recursive-feature-elimination",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is permutation importance considered unreliable in the presence of multicollinear features?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#permutation-importance-with-multicollinear-or-correlated-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does hierarchical clustering help in handling multicollinear features for permutation importance?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#handling-multicollinear-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the rationale behind using a RandomForestClassifier to evaluate feature importance?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#random-forest-feature-importance-on-breast-cancer-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does permutation importance help in understanding feature relevance in models with high accuracy?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#permutation-importance-with-multicollinear-or-correlated-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might features show little importance according to permutation importance despite a model's high accuracy?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#permutation-importance-with-multicollinear-or-correlated-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you visualize the ranking of pixels with RFE for digit classification?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_rfe_digits.html#recursive-feature-elimination",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the effect of recursive feature elimination on the classification accuracy of digits?",
+        "source": "https://scikit-learn.org/stable/auto_examples/feature_selection/plot_rfe_digits.html#recursive-feature-elimination",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is it important to consider multicollinearity when interpreting permutation importance?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#permutation-importance-with-multicollinear-or-correlated-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can hierarchical clustering of features improve the interpretation of permutation importance?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#handling-multicollinear-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What approach is used to handle multicollinear features in permutation importance analysis?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#handling-multicollinear-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the RandomForestClassifier perform in terms of accuracy on the breast cancer dataset?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#random-forest-feature-importance-on-breast-cancer-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the rationale behind plotting permutation importance for RandomForestClassifier?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#random-forest-feature-importance-on-breast-cancer-data",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might removing features based on multicollinearity not significantly affect model accuracy?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#handling-multicollinear-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you select a subset of features based on hierarchical clustering for RandomForestClassifier?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#handling-multicollinear-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of plotting permutation importance on a selected subset of features?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#handling-multicollinear-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the permutation importance vary with different subsets of features in RandomForestClassifier?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance_multicollinear.html#handling-multicollinear-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What challenges arise when trying to interpret machine learning models' coefficients?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html#common-pitfalls-in-the-interpretation-of-coefficients-of-linear-models",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is scaling important in the preprocessing step for linear model coefficient interpretation?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html#processing-the-dataset",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does regularization affect the interpretation of linear model coefficients?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html#linear-models-with-regularization",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the implications of sparse coefficients in linear models for feature selection?",
+        "source": "https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html#linear-models-with-sparse-coefficients",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you implement the online linear version of the One-Class SVM for large datasets?",
+        "source": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html#online-one-class-svm",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for importing Histogram-based Gradient Boosting Models now that they are stable?",
+        "source": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html#histogram-based-gradient-boosting-models-are-now-stable",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why are documentation improvements significant in a new release of scikit-learn?",
+        "source": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html#new-documentation-improvements",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the PowerTransformer help in mapping data from various distributions to a normal distribution?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html#map-data-to-a-normal-distribution",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the difference between the Box-Cox and Yeo-Johnson transforms?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html#map-data-to-a-normal-distribution",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might the QuantileTransformer be preferred over parametric methods for normalizing data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html#map-data-to-a-normal-distribution",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you discretize continuous features using the KBinsDiscretizer?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization.html#using-kbinsdiscretizer-to-discretize-continuous-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the impact of discretization on linear and tree-based models?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization.html#using-kbinsdiscretizer-to-discretize-continuous-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is feature scaling important for machine learning algorithms?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#importance-of-feature-scaling",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does feature scaling affect the convergence of gradient-based estimators?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#importance-of-feature-scaling",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the StandardScaler not recommended in the presence of outliers?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#standardscaler",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the benefit of using RobustScaler over MinMaxScaler and StandardScaler?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#robustscaler",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does QuantileTransformer transform features with a uniform or Gaussian distribution?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#quantiletransformer-uniform-output",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might the Normalizer be used for per sample normalization?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#normalizer",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the considerations when choosing between different feature scaling methods?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/index.html#preprocessing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the key features of the online One-Class SVM introduced in scikit-learn 1.0?",
+        "source": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html#online-one-class-svm",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you properly use the new stable Histogram-based Gradient Boosting Models?",
+        "source": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html#histogram-based-gradient-boosting-models-are-now-stable",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why are the new documentation improvements in scikit-learn 1.0 significant for users?",
+        "source": "https://scikit-learn.org/stable/auto_examples/release_highlights/plot_release_highlights_1_0_0.html#new-documentation-improvements",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does PowerTransformer normalize data distributions, and when should it be used?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html#map-data-to-a-normal-distribution",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the main differences and use cases for the Box-Cox and Yeo-Johnson methods in PowerTransformer?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html#map-data-to-a-normal-distribution",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In what situations would QuantileTransformer be preferred for normalizing data?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_map_data_to_normal.html#map-data-to-a-normal-distribution",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax is used for discretizing continuous features with KBinsDiscretizer?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization.html#using-kbinsdiscretizer-to-discretize-continuous-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does discretization impact model performance, particularly for linear vs. tree-based models?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_discretization.html#using-kbinsdiscretizer-to-discretize-continuous-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is feature scaling critical for algorithms such as SVMs and gradient-based optimizers?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#importance-of-feature-scaling",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can feature scaling impact the convergence speed of gradient descent methods?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#importance-of-feature-scaling",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What makes StandardScaler less suitable for datasets with outliers?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#standardscaler",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What advantages does RobustScaler offer over StandardScaler and MinMaxScaler?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#robustscaler",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does QuantileTransformer achieve feature transformation to a uniform or Gaussian distribution?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#quantiletransformer-uniform-output",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why would one use Normalizer for per-sample normalization instead of global normalization?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html#normalizer",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What criteria should guide the choice of feature scaling methods in different scenarios?",
+        "source": "https://scikit-learn.org/stable/auto_examples/preprocessing/index.html#preprocessing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you extract features from data that requires vectorization in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#extracting-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax should be used for implementing incremental learning in scikit-learn with partial_fit?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is it important to handle new or unseen targets in incremental learning models?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can you effectively use the FeatureHasher for datasets with categorical variables?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#extracting-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the acceptable parameters for the HashingVectorizer when processing text documents?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#extracting-features",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How does the choice of mini-batch size affect the performance of incremental learning algorithms?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#notes",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why should one be cautious about using stateless feature extractors with incremental learners?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can you use joblib's parallel_backend to control the number of workers for parallel processing?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#higher-level-parallelism-with-joblib",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of setting the OMP_NUM_THREADS environment variable for scikit-learn?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#lower-level-parallelism-with-openmp",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do environment variables like MKL_NUM_THREADS affect parallel numerical routines in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#parallel-numpy-and-scipy-routines-from-numerical-libraries",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What strategies can be employed to avoid oversubscription of CPU resources in parallel computations?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#oversubscription-spawning-too-many-threads",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does scikit-learn manage parallelism using environment variables for different numerical libraries?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#parallelism",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is it recommended to limit the working memory for certain scikit-learn computations?",
+        "source": "https://scikit-learn.org/stable/computing/computational_performance.html#limiting-working-memory",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the configuration of scikit-learn be adjusted to improve computational performance?",
+        "source": "https://scikit-learn.org/stable/computing/computational_performance.html#configuring-scikit-learn-for-reduced-validation-overhead",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the potential benefits and drawbacks of adjusting the SKLEARN_ASSUME_FINITE setting?",
+        "source": "https://scikit-learn.org/stable/computing/computational_performance.html#configuring-scikit-learn-for-reduced-validation-overhead",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can feature extraction be optimized for large datasets in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#extracting-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters are crucial for implementing incremental learning algorithms with partial_fit?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is handling unseen targets essential in incremental learning, and how can it be achieved?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the best practices for utilizing FeatureHasher with high-dimensional categorical data?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#extracting-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you determine the optimal number of features for HashingVectorizer in text processing?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#extracting-features",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What impact does mini-batch size have on the effectiveness of online learning models?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#notes",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In what situations would stateless feature extraction be advantageous for incremental learning?",
+        "source": "https://scikit-learn.org/stable/computing/scaling_strategies.html#incremental-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does configuring parallel_backend with joblib affect scikit-learn's computational efficiency?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#higher-level-parallelism-with-joblib",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What role do environment variables like OMP_NUM_THREADS play in controlling parallelism in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#lower-level-parallelism-with-openmp",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do numerical libraries' parallel routines interact with scikit-learn's parallel processing?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#parallel-numpy-and-scipy-routines-from-numerical-libraries",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What strategies help mitigate CPU resource oversubscription in parallel machine learning computations?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#oversubscription-spawning-too-many-threads",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the working memory limit be adjusted for large-scale computations in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/computing/computational_performance.html#limiting-working-memory",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What considerations should be made when adjusting scikit-learn's configuration for computational performance?",
+        "source": "https://scikit-learn.org/stable/computing/computational_performance.html#configuring-scikit-learn-for-reduced-validation-overhead",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the SKLEARN_ASSUME_FINITE setting important for controlling validation checks?",
+        "source": "https://scikit-learn.org/stable/computing/computational_performance.html#configuring-scikit-learn-for-reduced-validation-overhead",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can adjusting the maximum number of OpenMP threads impact scikit-learn's parallel performance?",
+        "source": "https://scikit-learn.org/stable/computing/parallelism.html#lower-level-parallelism-with-openmp",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for using Gaussian random projection in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#gaussian-random-projection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you determine the dimensionality reduction using Sparse random projection?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#sparse-random-projection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the compute_inverse_components parameter used in random projection transformers?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#inverse-transform",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does one use the SparseRandomProjection transformer for dimensionality reduction?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#sparse-random-projection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the benefits of using Kernel PCA for non-linear dimensionality reduction?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you perform Incremental PCA on large datasets in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#incremental-pca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of using randomized SVD with PCA?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#pca-using-randomized-svd",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why would one choose Sparse PCA over traditional PCA for data decomposition?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is Kernel PCA applied to denoising and compression of data?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#kernel-principal-component-analysis-kpca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What factors influence the choice of solver in Kernel PCA?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#choice-of-solver-for-kernel-pca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does TruncatedSVD differ from PCA in terms of data centering?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#truncated-singular-value-decomposition-and-latent-semantic-analysis",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the applications of Dictionary Learning in image processing?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#dictionary-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is Mini-batch dictionary learning preferred for large datasets?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#mini-batch-dictionary-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does Factor Analysis model the variance in different directions?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the role of Independent Component Analysis in signal separation?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#independent-component-analysis-ica",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you apply Gaussian Random Projection for dimensionality reduction in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#gaussian-random-projection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What criteria are used to evaluate the performance of Sparse Random Projection?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#sparse-random-projection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is it necessary to consider the compute_inverse_components option in Random Projection models?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#inverse-transform",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can SparseRandomProjection be optimized for high-dimensional data?",
+        "source": "https://scikit-learn.org/stable/modules/random_projection.html#sparse-random-projection",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the key advantages of Kernel PCA over standard PCA for certain datasets?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What steps are involved in performing Incremental PCA on datasets that don't fit in memory?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#incremental-pca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is randomized SVD preferred for PCA in terms of computational efficiency?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#pca-using-randomized-svd",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the use cases for selecting Sparse PCA for dimensionality reduction?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#sparse-principal-components-analysis-sparsepca-and-minibatchsparsepca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is data denoising achieved using Kernel PCA in practical applications?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#kernel-principal-component-analysis-kpca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What factors influence the selection of the kernel and solver in Kernel PCA?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#choice-of-solver-for-kernel-pca",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does TruncatedSVD facilitate dimensionality reduction without centering the data?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#truncated-singular-value-decomposition-and-latent-semantic-analysis",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the practical applications of Dictionary Learning in the field of image processing?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#dictionary-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is Mini-batch dictionary learning more suitable for processing large datasets?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#mini-batch-dictionary-learning",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In what scenarios is Factor Analysis more applicable than PCA or ICA?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is Independent Component Analysis utilized for the separation of mixed signals?",
+        "source": "https://scikit-learn.org/stable/modules/decomposition.html#independent-component-analysis-ica",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for using the PassiveAggressiveRegressor in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#miscellaneous",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you compute the elastic net path with coordinate descent using scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#miscellaneous",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the required parameters for using the lars_path function in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#miscellaneous",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How is the lars_path_gram function different from lars_path in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#miscellaneous",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters are necessary for computing the Lasso path with coordinate descent?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#miscellaneous",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How can the Orthogonal Matching Pursuit (OMP) algorithm be implemented in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#miscellaneous",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the correct way to use the Ridge regression solver in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#miscellaneous",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you perform Isomap Embedding using scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the essential parameters for using Locally Linear Embedding in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How is Multidimensional scaling performed in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters are used for Spectral Embedding in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How do you implement T-distributed Stochastic Neighbor Embedding using scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the purpose of the locally_linear_embedding function in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the SMACOF algorithm used for multidimensional scaling in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the acceptable parameters for the spectral_embedding function in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/classes.html#module-sklearn.manifold",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How do you implement a Ridge regression model with specific solver options in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the steps for performing a Lasso regression analysis using scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the ElasticNet model configured for different alpha and l1_ratio parameters?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.ElasticNet.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax is used for applying Orthogonal Matching Pursuit in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can you use the Lars algorithm for feature selection in large datasets?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lars.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters should be considered when using the LassoLars method?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LassoLars.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the Bayesian Ridge regression model preferred in certain scenarios?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.BayesianRidge.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you select the number of components for TruncatedSVD in text data processing?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.TruncatedSVD.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the best practices for using PCA for dimensionality reduction on large datasets?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you apply Non-negative Matrix Factorization (NMF) for topic modeling?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What considerations are important for choosing the init parameter in NMF?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.NMF.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the MiniBatch Dictionary Learning be effectively used for image decomposition?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.MiniBatchDictionaryLearning.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of the alpha parameter in the MiniBatch Sparse PCA?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.MiniBatchSparsePCA.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the Isomap algorithm perform non-linear dimensionality reduction?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the advantage of using Locally Linear Embedding over PCA?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.LocallyLinearEmbedding.html",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you use the log_loss function from sklearn.metrics to evaluate model performance?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html#examples-using-sklearn-metrics-log-loss",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax is needed to implement OrthogonalMatchingPursuit with specific non-zero coefficients in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html#sklearn-linear-model-orthogonalmatchingpursuit",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you apply Binarizer with a specific threshold in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Binarizer.html#sklearn-preprocessing-binarizer",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the correct way to configure a PoissonRegressor in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PoissonRegressor.html#sklearn-linear-model-poissonregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you perform Isomap embedding with a specific number of neighbors in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html#sklearn-manifold-isomap",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the acceptable parameters for the cross_validate function in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn-model-selection-cross-validate",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How do you calculate the Matthews correlation coefficient using scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.matthews_corrcoef.html#sklearn-metrics-matthews-corrcoef",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters should be set for explained_variance_score to handle non-finite scores?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html#sklearn-metrics-explained-variance-score",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How is the RBF kernel configured in Gaussian Process models within scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html#sklearn-gaussian-process-kernels-rbf",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What steps are necessary to implement a StackingClassifier with multiple estimators in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html#sklearn-ensemble-stackingclassifier",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you ensure a feature's importance is scaled correctly before applying a machine learning model in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html#examples-using-sklearn-metrics-log-loss",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What method is used to debug an OrthogonalMatchingPursuit model if it's not converging?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html#sklearn-linear-model-orthogonalmatchingpursuit",
+        "category": "If a user gives code debug it if it is right or wrong"
+    },
+    {
+        "question": "Why would you choose the RBF kernel over other kernels in Gaussian Process classification?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html#sklearn-gaussian-process-kernels-rbf",
+        "category": "If a user gives code debug it if it is right or wrong"
+    },
+    {
+        "question": "How can cross-validation be customized for specific scoring methods in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn-model-selection-cross-validate",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "What are the guidelines for selecting the 'solver' parameter in PoissonRegressor?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PoissonRegressor.html#sklearn-linear-model-poissonregressor",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How can the log_loss function be utilized to assess the accuracy of a probabilistic classifier?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html#examples-using-sklearn-metrics-log-loss",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the specific steps to implement OrthogonalMatchingPursuit for feature selection?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html#sklearn-linear-model-orthogonalmatchingpursuit",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you configure Binarizer to transform data based on a custom threshold?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.Binarizer.html#sklearn-preprocessing-binarizer",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters are essential for optimizing a PoissonRegressor model for count data?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PoissonRegressor.html#sklearn-linear-model-poissonregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In what scenarios is Isomap embedding particularly useful, and how is it performed?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.Isomap.html#sklearn-manifold-isomap",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the key considerations when using cross_validate for model evaluation?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn-model-selection-cross-validate",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the Matthews correlation coefficient interpreted in binary classification tasks?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.matthews_corrcoef.html#sklearn-metrics-matthews-corrcoef",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the best practices for using explained_variance_score in regression analysis?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.explained_variance_score.html#sklearn-metrics-explained-variance-score",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you select and configure the RBF kernel for Gaussian Process regression?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html#sklearn-gaussian-process-kernels-rbf",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What criteria guide the assembly of estimators in a StackingClassifier?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.StackingClassifier.html#sklearn-ensemble-stackingclassifier",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What techniques are recommended for scaling features prior to applying machine learning models?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html#examples-using-sklearn-metrics-log-loss",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What troubleshooting steps should be taken if OrthogonalMatchingPursuit fails to converge?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuit.html#sklearn-linear-model-orthogonalmatchingpursuit",
+        "category": "Code debug"
+    },
+    {
+        "question": "Why is the RBF kernel often preferred in Gaussian Process models for complex datasets?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.RBF.html#sklearn-gaussian-process-kernels-rbf",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can custom scoring methods be integrated into the cross_validate function?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_validate.html#sklearn-model-selection-cross-validate",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What factors influence the choice of solver in a PoissonRegressor for optimal performance?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PoissonRegressor.html#sklearn-linear-model-poissonregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you use the PassiveAggressiveRegressor with a specific loss function in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html#sklearn-linear-model-passiveaggressiveregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the acceptable parameters for the MaxAbsScaler in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MaxAbsScaler.html#sklearn-preprocessing-maxabsscaler",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "Why would one choose to use the 'auto' option for eigen_tol in spectral embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for performing DBSCAN clustering with a custom eps value?",
+        "source": "https://scikit-learn.org/stable/modules/generated/dbscan-function.html#sklearn-cluster-dbscan",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you determine the number of splits in a PredefinedSplit in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.PredefinedSplit.html#sklearn-model-selection-predefinedsplit",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters should be set for a HistGradientBoostingRegressor to handle categorical features?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html#sklearn-ensemble-histgradientboostingregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you apply spectral embedding to a graph with a predefined adjacency matrix?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What syntax is used for calculating pairwise distances with a custom metric in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html#sklearn-metrics-pairwise-distances",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can the predefined split cross-validator be utilized for model evaluation?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.PredefinedSplit.html#sklearn-model-selection-predefinedsplit",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the key attributes returned after fitting a HistGradientBoostingRegressor?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html#sklearn-ensemble-histgradientboostingregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How is the ledoit_wolf function used to estimate the covariance matrix?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.ledoit_wolf.html#sklearn-covariance-ledoit-wolf",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of setting norm_laplacian to False in spectral embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why might one adjust the block_size parameter in the ledoit_wolf covariance estimation?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.ledoit_wolf.html#sklearn-covariance-ledoit-wolf",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the drop_first parameter affect the output of spectral_embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the considerations when choosing the n_components parameter in spectral_embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you configure PassiveAggressiveRegressor to handle large margin violations effectively?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.PassiveAggressiveRegressor.html#sklearn-linear-model-passiveaggressiveregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What parameters are essential for scaling data using MaxAbsScaler to ensure robust preprocessing?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.MaxAbsScaler.html#sklearn-preprocessing-maxabsscaler",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How does setting eigen_tol to 'auto' influence the convergence of spectral embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the best practice for selecting the eps parameter in DBSCAN to ensure meaningful clustering results?",
+        "source": "https://scikit-learn.org/stable/modules/generated/dbscan-function.html#sklearn-cluster-dbscan",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can PredefinedSplit be utilized to create custom training and validation sets in cross-validation?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.PredefinedSplit.html#sklearn-model-selection-predefinedsplit",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What considerations should be made when configuring HistGradientBoostingRegressor for different loss functions?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html#sklearn-ensemble-histgradientboostingregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "In what scenarios is spectral embedding particularly beneficial, and how is it applied to non-Euclidean data?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you calculate pairwise distances with custom metrics for large datasets efficiently?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise_distances.html#sklearn-metrics-pairwise-distances",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the advantages of using PredefinedSplit over traditional K-fold cross-validation?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.PredefinedSplit.html#sklearn-model-selection-predefinedsplit",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What attributes of HistGradientBoostingRegressor are most indicative of model performance?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.HistGradientBoostingRegressor.html#sklearn-ensemble-histgradientboostingregressor",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "Why is the ledoit_wolf covariance estimator preferred for high-dimensional data?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.ledoit_wolf.html#sklearn-covariance-ledoit-wolf",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What impact does setting norm_laplacian to False have on the structure of the spectral embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How does the block_size parameter in ledoit_wolf affect computational efficiency and accuracy?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.covariance.ledoit_wolf.html#sklearn-covariance-ledoit-wolf",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What role does the drop_first parameter play in the configuration of spectral embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What are the implications of choosing too large or too small a value for n_components in spectral embedding?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.manifold.spectral_embedding.html#sklearn-manifold-spectral-embedding",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the syntax for initializing a PairwiseKernel in scikit-learn?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.PairwiseKernel.html#sklearn-gaussian-process-kernels-pairwisekernel",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you specify the metric and gamma parameters for a PairwiseKernel?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.gaussian_process.kernels.PairwiseKernel.html#sklearn-gaussian-process-kernels-pairwisekernel",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "What parameters are needed for QuadraticDiscriminantAnalysis with regularization?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html#sklearn-discriminant-analysis-quadraticdiscriminantanalysis",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can one set priors in QuadraticDiscriminantAnalysis?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.discriminant_analysis.QuadraticDiscriminantAnalysis.html#sklearn-discriminant-analysis-quadraticdiscriminantanalysis",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "How do you use OrthogonalMatchingPursuitCV with a specific cross-validation strategy?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html#sklearn-linear-model-orthogonalmatchingpursuitcv",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the maximum number of iterations you can set in OrthogonalMatchingPursuitCV?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.OrthogonalMatchingPursuitCV.html#sklearn-linear-model-orthogonalmatchingpursuitcv",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you download the species distribution dataset using sklearn.datasets?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_species_distributions.html#sklearn-datasets-fetch-species-distributions",
+        "category": "Installation questions"
+    },
+    {
+        "question": "What parameters control the download behavior of fetch_species_distributions?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_species_distributions.html#sklearn-datasets-fetch-species-distributions",
+        "category": "Installation questions"
+    },
+    {
+        "question": "How is monotonicity determined between two arrays with sklearn.isotonic.check_increasing?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.isotonic.check_increasing.html#sklearn-isotonic-check-increasing",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "What is the significance of the 'increasing' return value from check_increasing?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.isotonic.check_increasing.html#sklearn-isotonic-check-increasing",
+        "category": "If a user gives code debug it if it is right or wrong"
+    },
+    {
+        "question": "What is the function and importance of the alpha parameter in SelectFwe?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFwe.html#sklearn-feature-selection-selectfwe",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How do you choose the score function for feature selection in SelectFwe?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectFwe.html#sklearn-feature-selection-selectfwe",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "What are the steps for fitting a model using RidgeCV with cross-validation?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html#sklearn-linear-model-ridgecv",
+        "category": "Syntax questions"
+    },
+    {
+        "question": "How can you specify the alphas parameter in RidgeCV?",
+        "source": "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.RidgeCV.html#sklearn-linear-model-ridgecv",
+        "category": "Acceptable parameters"
+    },
+    {
+        "question": "What does the oas function do in sklearn.covariance?",
+        "source": "https://scikit-learn.org/stable/modules/generated/oas-function.html#sklearn-covariance-oas",
+        "category": "Syntax questions"
+    }
+]
