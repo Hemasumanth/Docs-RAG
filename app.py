@@ -48,4 +48,14 @@ def stream_responses():
     yield "\n\nRelated Sources:\n"
     for i, source in enumerate(result['sources']):
         yield f"{i+1}. {source}\n"
+# User Input
+prompt = st.chat_input("Hi, I'm your AI assistant to help you in answering Scikit-Learn related queries. Ask me anything!")
+if prompt:
+    st.session_state['messages'].append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+    with st.chat_message("assistant"):
+        message = st.write_stream(stream_responses())
+        st.session_state['messages'].append({"role": "assistant", "content": message})
+
 
